@@ -1,15 +1,15 @@
 <?php
 
 
- $USER='root';
+ $USER='id22356860_root';
 
-$PASSWORD='';
+$PASSWORD='Ravan@123';
 
-$DATABASE_NAME="master";
+$DATABASE_NAME="id22356860_app_data";
 
-$HOSTER= 'localhost';
+$HOSTER= 'databases-auth.000webhost.com';
 
-$DATABASE_NAME1="supermaster";
+$DATABASE_NAME1="id22356860_app_data";
 
 
 
